@@ -11,7 +11,6 @@ This is a simple game made in GameMaker Studio in order to better understand gam
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [GameMaker Manuel](https://manual.yoyogames.com/index.htm?#t=GameMaker_Language%2FGML_Overview%2FGML_Overview.htm)
 * [Peyton Burnham Youtube Tutorial](https://www.youtube.com/watch?v=KnfQo32ME5g&list=PL14Yj-e2sgzySnBUlQLhq2VJXRLi66gFf)
 
